@@ -67,3 +67,9 @@ streamlit run app.py
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change or improve.
+
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).
