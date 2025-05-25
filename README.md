@@ -46,7 +46,7 @@ ResumeRadar analyzes a resume in PDF format, processes it through AI models and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Manojgowda2000/ATS-Pro-AI-Powered-Resume-Evaluator.git
+git clone https://github.com/Manojgowda2000/ResumeRadar-AI-Powered-Resume-ATS-Score-Calculator.git
 cd ATS-Pro-AI-Powered-Resume-Evaluator
 ```
 
